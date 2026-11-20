@@ -1,0 +1,18 @@
+{
+  "excel_path": "CARACTERIZACION.xlsx",
+  "output_dir": "salida",
+  "state_file": "estado.json",
+  "temp_dir": "temp_pdf",
+  "error_dir": "errors",
+  "sheet_name": null,
+  "header_row": 1,
+  "column_map": {},
+  "profiles": null,
+  "batch_size": 0,
+  "headless": false,
+  "resume": true,
+  "captcha_max_attempts": 2,
+  "manual_timeout": 300,
+  "driver_backend": "auto",
+  "filename_pattern": "apellido_primero"
+}
